@@ -16,5 +16,5 @@ export interface Item {
     locationId: string;
     name: string;
     description?: string;
-    photo?: string;
+    image: string | null;
 }
