@@ -1,0 +1,4 @@
+{
+  "ignore": ["node_modules", "messages.json", "public"],
+  "ext": "ts"
+}
